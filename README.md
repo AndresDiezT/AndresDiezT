@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://dev.to/andresdiez](https://github.com/AndresDiezT)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="andresdiez" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andres santiago diez tuberquia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andres santiago diez tuberquia" height="30" width="40" /></a>
-<a href="[https://www.hackerrank.com/Andres santiago](https://www.hackerrank.com/andresdieztuber1?hr_r=1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="andres santiago" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@andresdieztuber1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@andresdieztuber1" height="30" width="40" /></a>
+<a href="https://github.com/AndresDiezT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="andresdiez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/andressantiagodiez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Andres Santiago Diez Tuberquia" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/andresdieztuber1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Andres Santiago Diez Tuberquia" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@andres212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@andresdieztuber1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
