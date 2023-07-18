@@ -1,7 +1,6 @@
 <h1 align="center">Hi There, I'm Andres Santiago</h1>
 <h3 align="center">A passionate Full Stack Developer 😆</h3>
 <br/>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/o9q5s4ncFVir9cCAgO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-coffee-latte-cappuccino-o9q5s4ncFVir9cCAgO">via GIPHY</a></p>
 
 - 🌱 I’m currently learning **Frameworks, Courses, Documentations, About Companies, About me too of course**
 
