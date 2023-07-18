@@ -1,7 +1,7 @@
 <h1 align="center">Hi There, I'm Andres Santiago</h1>
 <h3 align="center">A passionate Full Stack Developer 😆</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andresdiezt&label=Profile%20views&color=0e75b6&style=flat" alt="andresdiezt" /> </p>
+<br/>
+<iframe src="https://giphy.com/embed/o9q5s4ncFVir9cCAgO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 - 🌱 I’m currently learning **Frameworks, Courses, Documentations, About Companies, About me too of course**
 
@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/AndresDiezT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="andresdiez" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/andressantiagodiez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Andres Santiago Diez Tuberquia" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/andresdieztuber1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Andres Santiago Diez Tuberquia" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@andres212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@andresdieztuber1" height="30" width="40" /></a>
+<a href="https://github.com/AndresDiezT" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="andresdiez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/andressantiagodiez/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Andres Santiago Diez Tuberquia" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/andresdieztuber1?hr_r=1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Andres Santiago Diez Tuberquia" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@andres212" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@andresdieztuber1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
